@@ -1,0 +1,26 @@
+*{padding:0; margin;0;}
+
+body{
+  background:#e46161; font-family:Sans Serif}
+header{
+  background:#cbf078; margin:auto; padding: 0 15px 0 15px; font-size:17px;
+  border: 1px solid grey; border-radius:70px; display:flex; align-items:center;
+  justify-content:space-between;}
+menu{
+  background-color:#EEE0C9; margin:auto; font-size:13px; text-align:center}
+article{
+  background:#FFF2D8; width:1000px; margin:auto;padding:20px}
+footer{
+  background:#BCA37F; width:1000px; margin:auto;padding:20px}
+img{
+  margin: 8px 0 8px 0; width:60px; height: 65px}
+nav{
+  font-size:15px; margin-right: 20px}
+.gambar {
+  width: 80px; 
+  height: 80px;
+}
+.menu ul{list-style:none; display: inline-flex; float: right; padding-right: 80px; padding-top: 16px;}
+.menu ul li{padding-right: 22px; }
+.menu ul li a {text-decoration: none; cursor: pointer; color: black;}
+.menu ul li a:hover {color: #1CAAE9;}
